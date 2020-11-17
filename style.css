@@ -1,0 +1,67 @@
+.h1 {
+    font-family: 'Vidaloka', serif;
+    color: #7da555;
+    font-size: 12vw;
+    height: 10%;
+    flex-wrap: nowrap;
+    -webkit-text-stroke-width: 0.8px;
+    -webkit-text-stroke-color: white;
+}
+
+.h2 {
+    font-family: 'Lato';
+    color: white;
+    font-size: 2vw;
+    height: 18%;
+    padding: 2px 20px 20px 2px;
+}
+
+.header {
+    display: flex;
+    width: 100;
+    background-image: url("images/image 1.jpeg");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    border-bottom: #FFFFFF;
+}
+.buttons {
+     text-align: center;
+     padding: 0px 5px 0px 5px;
+}
+.inverted a {
+    color: #7da555;
+}
+.content {
+    max-width: 60rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.h22 {
+   font-family: 'Lato';
+    color: #7da555;
+    text-align: center;
+    font-size: 2vw;
+}
+.h11 {
+    font-family: 'Vidaloka', serif;
+    color: #385021;
+    text-align: center;
+    font-size: 6vw;
+    flex-wrap: nowrap;  
+}
+.text {
+    text-align: center;
+    font-family: lato;
+    padding: 0px 50px 3px 50px;
+    color: #385021
+}
+.back {
+    background-color: #c6dab3;
+}
